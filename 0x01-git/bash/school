@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "School"
+^C
+root@45e4756303dd:/alx-pre_course/0x01-git/bash# git add .
+root@45e4756303dd:/alx-pre_course/0x01-git/bash# git commit -m "Starting to code today, so cool"
